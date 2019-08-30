@@ -1,6 +1,6 @@
 package router
 
-import "final_assignment/assignment3/Controller"
+import "github.com/anupriya0703/go/assignment3/Controller"
 import	"github.com/gorilla/mux"
 
 
