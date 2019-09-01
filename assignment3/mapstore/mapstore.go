@@ -1,7 +1,9 @@
 package mapstore
 
-import "github.com/anupriya0703/go/assignment3/domain"
-import "errors"
+import(
+	"github.com/anupriya0703/go/assignment3/domain"
+        "errors"
+)
 //import "fmt"
 
 type MapStore struct {
