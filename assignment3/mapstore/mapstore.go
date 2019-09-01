@@ -1,6 +1,6 @@
 package mapstore
 
-import "final_assignment/assignment3/domain"
+import "github.com/anupriya0703/go/assignment3/domain"
 import "errors"
 //import "fmt"
 
