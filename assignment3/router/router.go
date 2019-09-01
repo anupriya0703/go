@@ -1,7 +1,9 @@
 package router
 
-import "github.com/anupriya0703/go/assignment3/Controller"
-import	"github.com/gorilla/mux"
+import(
+	"github.com/anupriya0703/go/assignment3/Controller"
+	"github.com/gorilla/mux"
+)
 
 
 var Mux = mux.NewRouter()
