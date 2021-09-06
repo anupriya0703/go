@@ -21,7 +21,7 @@ func Add(m map[string]string){
 
 
 func Update(key string,m map[string]string)(string){
-	var value string
+	 var value string
 	fmt.Println("Enter the value ")
 	fmt.Scanln(&value)
 	m[key]=value
